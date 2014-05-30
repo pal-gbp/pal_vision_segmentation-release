@@ -1,0 +1,9 @@
+ros-hydro-pal-vision-segmentation (0.0.1-0precise) precise; urgency=high
+
+  * Cleanup and readme before release
+  * First catkin version of pal_vision_segmentation
+  * Contributors: Bence Magyar, Jordi Pages
+
+ -- Bence Magyar <bence.magyar@pal-robotics.com>  Thu, 29 May 2014 22:00:00 -0000
+
+
