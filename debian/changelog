@@ -1,0 +1,19 @@
+ros-hydro-pal-vision-segmentation (1.0.0-0raring) raring; urgency=high
+
+  * Add depth_segmentation node
+  * Do not show images unless explicit argument in unit test
+  * Remove ros init from test
+  * Timestamp is taken from the original image
+  * Contributors: Bence Magyar, Jordi Pages, Mariia Dmitrieva
+
+ -- Bence Magyar <bence.magyar@pal-robotics.com>  Mon, 14 Jul 2014 22:00:00 -0000
+
+ros-hydro-pal-vision-segmentation (0.0.1-0raring) raring; urgency=high
+
+  * Cleanup and readme before release
+  * First catkin version of pal_vision_segmentation
+  * Contributors: Bence Magyar, Jordi Pages
+
+ -- Bence Magyar <bence.magyar@pal-robotics.com>  Thu, 29 May 2014 22:00:00 -0000
+
+
